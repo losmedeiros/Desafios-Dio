@@ -23,6 +23,5 @@ if(saldoVitorias<=10){
 }else if(saldoVitorias>100){
  nivelHeroi="Imortal"
 }
-//Ao final deve se exibir uma mensagem:
-//"O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
+
 console.log(`O Herói tem de saldo de ${saldoVitorias} está no nível de ${nivelHeroi}`)
